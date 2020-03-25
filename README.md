@@ -1,8 +1,9 @@
 # public-toys
 public toy projects for posting to my [blog](https://poqw.github.io)
 
-## testable-env
-Basic testable environment setup with TypeScript and jest.
+## Flutter
+See [README.md](https://github.com/poqw/public-toys/blob/master/flutter/README.md)
 
-See my blog [post](https://poqw.github.io/ts_testable_env_setup/).
+## Typescript
+See [README.md](https://github.com/poqw/public-toys/blob/master/typescript/README.md)
 
